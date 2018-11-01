@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BehemothProj.iml" filepath="$PROJECT_DIR$/BehemothProj.iml" />
+      <module fileurl="file://C:\Users\Moish\AndroidStudioProjects\BehemothProjv2\BehemothProj.iml" filepath="C:\Users\Moish\AndroidStudioProjects\BehemothProjv2\BehemothProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
